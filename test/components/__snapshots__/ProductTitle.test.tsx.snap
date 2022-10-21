@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in <ProductTitle /> should render component with custom title 1`] = `
+<span
+  className="productDescription undefined"
+>
+  Custom Product Title
+</span>
+`;
+
+exports[`Test in <ProductTitle /> should show component with original title 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    Coffee Mug - Card
+  </span>
+</div>
+`;

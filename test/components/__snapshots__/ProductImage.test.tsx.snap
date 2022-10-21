@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in <ProductImage /> should render component with no image 1`] = `
+<img
+  alt="Product"
+  className="productImg undefined"
+  src="https://logicalidea.co/wp-content/uploads/2022/06/React.js-Cheat-Sheet.jpg"
+/>
+`;
+
+exports[`Test in <ProductImage /> should show component with original image 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
